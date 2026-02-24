@@ -157,5 +157,11 @@ Copyright (c) 2025-2026 Joseph McGinty Jr
 ---
 
 <p align="center">
-  Built by <a href="https://github.com/Subzero121800">Joseph McGinty Jr</a>
+  <a href="https://ariaos.dev">AriaOS.dev</a> &middot;
+  <a href="https://resilientmindai.com">ResilientMindAI.com</a> &middot;
+  <a href="https://www.linkedin.com/in/joseph-mcginty-jr/">LinkedIn</a> &middot;
+  <a href="https://github.com/Subzero121800">GitHub</a>
+</p>
+<p align="center">
+  Built by <strong>Joseph McGinty Jr</strong>
 </p>
