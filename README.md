@@ -92,26 +92,6 @@ SentinelCore is an AI-native penetration testing framework that automates the fu
 | **Google** | Gemini 2.0 Flash, 1.5 Pro | Fast inference |
 | **Ollama** | Llama 3.1, DeepSeek-R1, Mistral, etc. | Fully offline operation |
 
-## Getting Started
-
-> Full source code is available in the private repository. This public repository serves as a project showcase with screenshots and documentation.
-
-### Prerequisites
-
-- **Node.js** >= 20.0.0
-- **pnpm** >= 9.0.0
-- Security tools on PATH (nmap, sqlmap, nuclei, ffuf, etc.) — optional, agents adapt to available tools
-
-### Quick Start
-
-```bash
-git clone https://github.com/Subzero121800/SentinelCore-Pub.git
-cd SentinelCore-Pub
-./launch.sh
-```
-
-The launch script handles Node.js detection, dependency installation, building, and starting the daemon + dashboard.
-
 ## Web Dashboard
 
 The dashboard provides real-time visibility into all operations:
