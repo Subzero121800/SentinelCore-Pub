@@ -1,21 +1,123 @@
-MIT License
+SentinelCore Non-Commercial License
 
-Copyright (c) 2025-2026 Joseph McGinty Jr
+Copyright (c) 2025-2026 Joseph McGinty Jr. All Rights Reserved.
+
+1. GRANT OF LICENSE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software for NON-COMMERCIAL purposes only,
+subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+  a. The above copyright notice and this entire license shall be included in
+     all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  b. The Software shall NOT be used, in whole or in part, for any commercial
+     purpose. "Commercial purpose" includes, but is not limited to: selling
+     the Software, offering the Software as a paid service, incorporating the
+     Software into a commercial product, or using the Software to generate
+     revenue directly or indirectly.
+
+  c. Commercial licensing is available separately. Contact:
+     licensing@sentinelcore.dev
+
+2. ASSUMPTION OF RISK
+
+BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU EXPRESSLY ACKNOWLEDGE
+AND AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE AND EXCLUSIVE RISK.
+THE SOFTWARE IS A PENETRATION TESTING AND SECURITY ASSESSMENT TOOL THAT
+INTERACTS WITH COMPUTER SYSTEMS AND NETWORKS. YOU ASSUME ALL RISK AND
+RESPONSIBILITY FOR:
+
+  a. Any and all consequences resulting from the use or misuse of the Software,
+     including but not limited to damage to computer systems, networks, data
+     loss, service disruptions, or any other harm.
+
+  b. Ensuring that you have proper written authorization before using the
+     Software against any target system, network, or application.
+
+  c. Compliance with all applicable local, state, national, and international
+     laws, regulations, and ethical guidelines governing computer security
+     testing, including but not limited to the Computer Fraud and Abuse Act
+     (CFAA), the General Data Protection Regulation (GDPR), and equivalent
+     legislation in your jurisdiction.
+
+  d. Any actions taken by the Software's AI agents, automated tools, or any
+     component thereof, whether initiated manually or autonomously.
+
+3. HOLD HARMLESS AND INDEMNIFICATION
+
+YOU AGREE TO HOLD HARMLESS, DEFEND, AND INDEMNIFY THE AUTHORS, COPYRIGHT
+HOLDERS, CONTRIBUTORS, AND AFFILIATES (COLLECTIVELY, THE "RELEASED PARTIES")
+FROM AND AGAINST ANY AND ALL CLAIMS, DAMAGES, LOSSES, LIABILITIES, COSTS, AND
+EXPENSES (INCLUDING REASONABLE ATTORNEYS' FEES) ARISING OUT OF OR RELATED TO:
+
+  a. Your use or misuse of the Software.
+
+  b. Your violation of any law, regulation, or third-party right.
+
+  c. Any unauthorized access to or testing of systems, networks, or
+     applications using the Software.
+
+  d. Any claim by a third party related to your use of the Software.
+
+  e. Any action taken by the Software's automated agents or tools during
+     an assessment, scan, or any other operation.
+
+THE RELEASED PARTIES SHALL NOT BE LIABLE UNDER ANY LEGAL THEORY (WHETHER
+CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE) FOR ANY CLAIM OR DAMAGE
+ARISING FROM YOUR USE OF THE SOFTWARE, REGARDLESS OF WHETHER THE RELEASED
+PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, ACCURACY,
+COMPLETENESS, OR RELIABILITY.
+
+THE AUTHORS DO NOT WARRANT THAT:
+
+  a. The Software will meet your requirements or expectations.
+  b. The Software will be uninterrupted, timely, secure, or error-free.
+  c. The results obtained from the Software will be accurate or reliable.
+  d. Any defects in the Software will be corrected.
+
+5. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+(INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES,
+LOSS OF USE, DATA, OR PROFITS, BUSINESS INTERRUPTION, OR REPUTATIONAL HARM)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+6. ETHICAL USE
+
+The Software is intended solely for authorized security testing, education,
+and defensive security research. You agree NOT to use the Software for:
+
+  a. Unauthorized access to systems you do not own or have explicit written
+     permission to test.
+  b. Any activity that violates applicable law.
+  c. Malicious purposes including but not limited to denial of service,
+     data theft, extortion, or harassment.
+
+7. TERMINATION
+
+This license is effective until terminated. Your rights under this license
+will terminate automatically without notice if you fail to comply with any
+of its terms. Upon termination, you shall cease all use and destroy all
+copies of the Software.
+
+8. SEVERABILITY
+
+If any provision of this license is held to be unenforceable, the remaining
+provisions shall continue in full force and effect.
+
+9. ENTIRE AGREEMENT
+
+This license constitutes the entire agreement between you and the copyright
+holder regarding the Software and supersedes all prior agreements and
+understandings.

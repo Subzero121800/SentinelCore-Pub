@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/SentinelCore-v0.1.0-00d4ff?style=for-the-badge&labelColor=0f172a" alt="SentinelCore v0.1.0" />
   <img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0f172a" alt="Node.js 20+" />
   <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f172a" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&labelColor=0f172a" alt="MIT License" />
+  <img src="https://img.shields.io/badge/License-Non--Commercial-ef4444?style=for-the-badge&labelColor=0f172a" alt="Non-Commercial License" />
 </p>
 
 <h1 align="center">SentinelCore</h1>
@@ -128,11 +128,27 @@ If SentinelCore has been useful to you, consider supporting development:
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
 
+## Disclaimer & Assumption of Risk
+
+> **WARNING:** SentinelCore is a penetration testing and security assessment platform that interacts with computer systems and networks using automated AI agents. **By downloading, installing, or using this software, you expressly acknowledge and agree that:**
+>
+> - **You assume ALL risk** associated with the use of this software, including but not limited to damage to systems, data loss, service disruption, legal consequences, and any other harm.
+> - **You are solely responsible** for ensuring you have proper **written authorization** before testing any target system, network, or application.
+> - **You agree to hold harmless, defend, and indemnify** the authors, contributors, and affiliates from any and all claims, damages, losses, or liabilities arising from your use of the software.
+> - **You are responsible** for compliance with all applicable laws and regulations in your jurisdiction, including the Computer Fraud and Abuse Act (CFAA), GDPR, and equivalent legislation.
+> - The authors assume **no liability whatsoever** for actions taken by the software's AI agents, automated tools, or any component thereof.
+>
+> **This software is provided "AS IS" without warranty of any kind. Use at your own risk.**
+
+## Availability
+
+SentinelCore is currently in **closed beta**. Source code and releases will be made available to approved testers and licensed users. If you are interested in early access, contact us via [LinkedIn](https://www.linkedin.com/in/joseph-mcginty-jr/) or at [AriaOS.dev](https://ariaos.dev).
+
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [SentinelCore Non-Commercial License](LICENSE). Commercial use is strictly prohibited without a separate commercial license.
 
-Copyright (c) 2025-2026 Joseph McGinty Jr
+Copyright (c) 2025-2026 Joseph McGinty Jr. All Rights Reserved.
 
 ---
 
